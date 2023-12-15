@@ -1,2 +1,2 @@
-# DumplicateChecker
+# DuplicateChecker
 kotlin、java
