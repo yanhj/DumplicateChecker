@@ -8,7 +8,7 @@
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yanhj/DuplicateChecker/blob/702aebccdff4e4f7425f1a218f760960c440b031/main/SparkleToturial.zip" length="42679097" type="application/octet-stream" sparkle:edSignature="czDN2bEC8afILwJ8Ap+woSHE2/HQZuhxxy/L1nk40AWnilueTGOWK1rJJOYC558//xqyRh/VS9dIHw5TCWKWBg=="/>
+            <enclosure url="https://github.com/yanhj/DuplicateChecker/blob/702aebccdff4e4f7425f1a218f760960c440b031/bolb/main/SparkleToturial.zip" length="42679097" type="application/octet-stream" sparkle:edSignature="czDN2bEC8afILwJ8Ap+woSHE2/HQZuhxxy/L1nk40AWnilueTGOWK1rJJOYC558//xqyRh/VS9dIHw5TCWKWBg=="/>
         </item>
     </channel>
 </rss>
